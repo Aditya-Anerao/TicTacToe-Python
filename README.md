@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Python Program that allows two players to play tic-tac-toe against one another
+Python program that allows two players to play tic-tac-toe against one another
 
 Python Assignment #2<br/>
 Professor Christopher Healey<br/>
@@ -14,4 +14,6 @@ A1	B1	C1
 A2	B2	C2
 A3	B3	C3
 
-Input: Players select positions on the board
+**Input:** Players select positions on the board
+
+**Output:** Program will output the current status of the board and continue to allow players to play until the game has been won or draw. The program will ask if players want to play another game
