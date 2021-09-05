@@ -13,6 +13,7 @@ Positions on the board are labeled with the numbers 1, 2, and 3, used for the th
 A1  B1 C1 <br/>
 A2 B2 C2 <br/>
 A3 B3	C3 <br/>
+
 **Input:** Players select positions on the board
 
 **Output:** Program will output the current status of the board and continue to allow players to play until the game has been won or draw. The program will ask if players want to play another game
